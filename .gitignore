@@ -1,0 +1,6 @@
+target/
+.idea/
+.DS_Store
+authenticate.sh
+src/main/resources/owid-covid-data.json
+.bsp
