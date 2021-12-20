@@ -53,9 +53,11 @@ val df = (1 to fiveMinIntervalsInADay)
 
 // MAGIC %md
 // MAGIC ## Exercise: Create a Function
-// MAGIC Create a function that takes an interval and outputs the value for that interval according to the the Normal Distribution function line.
+// MAGIC Create a Scala function that takes an interval(`x`) and outputs the value (`f(x)`) for that interval according to the the Normal Distribution function line:
 // MAGIC 
-// MAGIC Some resources that will help you:
+// MAGIC ![normal-dist.png](https://wikimedia.org/api/rest_v1/media/math/render/svg/00cb9b2c9b866378626bcfa45c86a6de2f2b2e40)
+// MAGIC 
+// MAGIC Resources:
 // MAGIC * [Definition of Normal Distribution](https://en.wikipedia.org/wiki/Normal_distribution)
 
 // COMMAND ----------
